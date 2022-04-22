@@ -11903,6 +11903,7 @@ html {
   display: flex;
 }
 
-.align-center { 
+.align-center {
   font-size: 1.25rem;
-  text-align: center; }
+  text-align: center;
+}
